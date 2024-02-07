@@ -1,30 +1,25 @@
-# CocktailsProject
+# Cocktails
 
-This template should help get you started developing with Vue 3 in Vite.
+проект "Cocktails"
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Описание
 
-## Customize configuration
+Данно приложение позволяет находить коктейли по ингредиентам, просматривать рецепты и состав коктейлей, а также получать случайный коктейль при помощи нажатия на кнопку.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Установка
 
-## Project Setup
+1. Клонируйте репозиторий: `https://github.com/volodin32104/vue-cocktails.git`
+2. Перейдите в каталог проекта: `cd vue-cocktails`
+3. Установите зависимости: `npm install` или `yarn install`
 
-```sh
-npm install
-```
+## Используемые технологии:
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# vue-cocktails
+1. Vue 3
+2. Pinia
+3. HTML5
+4. SASS
+5. Git
+6. Element plus
+7. Vue Router
+8. Vite
