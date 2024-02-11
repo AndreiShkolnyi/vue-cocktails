@@ -51,7 +51,6 @@ const titleValue = computed(() => {
     return `COCKTAILS WITH ${rootStore.ingredient}`;
   }
   return  'Choose your drink';
-
 })
 
 function getCocktails() {
